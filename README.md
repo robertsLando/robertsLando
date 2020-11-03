@@ -6,6 +6,8 @@ I ❤️ contributing to the Opensource world: I'm actually part of [MoscaJS](ht
 
 If you find my stuff useful please consider supporting me as a [Sponsor](https://github.com/sponsors/robertsLando) 💓
 
-<a href="https://github-readme-stats.vercel.app/api?username=robertslando&show_icons=true&theme=tokyonight&count_private=true&hide=stars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertslando&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
-</a>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=robertslando&show_icons=true&theme=tokyonight&count_private=true&hide=stars">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertslando&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
+  </a>
+</p>
