@@ -24,7 +24,11 @@ Maintainer of **[MQTT.js](https://github.com/mqttjs/MQTT.js)** — the most popu
 
 #### 🔌 [MoscaJS](https://github.com/moscajs)
 
-Maintainer of **[Aedes](https://github.com/moscajs/aedes)** — a high-performance MQTT broker for Node.js, and its predecessor **[Mosca](https://github.com/moscajs/mosca)**.
+Maintainer of **[Aedes](https://github.com/moscajs/aedes)** — a high-performance MQTT broker for Node.js.
+
+#### 📦 [yao-pkg](https://github.com/yao-pkg)
+
+Maintainer of **[pkg](https://github.com/yao-pkg/pkg)** — package your Node.js project into an executable.
 
 ...and [many more](https://github.com/robertsLando?tab=repositories) that keep me out of trouble (mostly).
 
