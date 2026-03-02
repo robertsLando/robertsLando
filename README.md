@@ -4,7 +4,7 @@
 🇮🇹 Italian Engineer    💻 Full-Stack Dev    🏠 IoT Enthusiast    🏔️ Outdoor Addict
 ```
 
-Computer Engineer from Bassano del Grappa, Italy. Passionate about open source, home automation, and spending time in nature.
+Computer Engineer from Italy. Passionate about open source, home automation, and spending time in nature.
 
 When I'm not writing code, you'll probably find me on a trail somewhere in the mountains.
 
@@ -12,13 +12,21 @@ When I'm not writing code, you'll probably find me on a trail somewhere in the m
 
 ### 🔧 What I Do
 
-I'm a core contributor and maintainer across several open-source projects:
+I'm a core contributor and maintainer across several open-source organizations and projects.
 
-- **[Z-Wave JS UI](https://github.com/zwave-js/zwave-js-ui)** — Full-featured Z-Wave Control Panel & MQTT gateway
-- **[MQTT.js](https://github.com/mqttjs)** — The most popular MQTT client for Node.js
-- **[MoscaJS](https://github.com/moscajs)** — MQTT broker in Node.js
+#### 🏠 [Z-Wave JS](https://github.com/zwave-js)
 
-...and [79 more repos](https://github.com/robertsLando?tab=repositories) that keep me out of trouble (mostly).
+My main focus. I created and maintain **[Z-Wave JS UI](https://github.com/zwave-js/zwave-js-ui)** — a full-featured Z-Wave Control Panel and MQTT gateway used by thousands of smart home enthusiasts worldwide.
+
+#### 📡 [MQTT.js](https://github.com/mqttjs)
+
+Maintainer of **[MQTT.js](https://github.com/mqttjs/MQTT.js)** — the most popular MQTT client for Node.js and the browser, with 9k+ stars.
+
+#### 🔌 [MoscaJS](https://github.com/moscajs)
+
+Maintainer of **[Aedes](https://github.com/moscajs/aedes)** — a high-performance MQTT broker for Node.js, and its predecessor **[Mosca](https://github.com/moscajs/mosca)**.
+
+...and [many more](https://github.com/robertsLando?tab=repositories) that keep me out of trouble (mostly).
 
 ---
 
