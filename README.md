@@ -1,13 +1,39 @@
-### About me
+### Hey there! I'm Daniel Lando 👋
 
-Hi there, I'm Daniel and I'm a Computer Engeneer 🤓. I'm from Italy 🇮🇹 and I work at [Innovation System](http://www.innovation-system.it/), an Home and Building automation company.
+```
+🇮🇹 Italian Engineer    💻 Full-Stack Dev    🏠 IoT Enthusiast    🏔️ Outdoor Addict
+```
 
-I ❤️ contributing to the Opensource world: I'm actually part of many orgs like [ZwaveJS](https://github.com/zwave-js), [MQTT.js](https://github.com/mqttjs), [MoscaJS](https://github.com/moscajs) and I'm working on many others Opensource projects 🔥
+Computer Engineer from Bassano del Grappa, Italy. Passionate about open source, home automation, and spending time in nature.
 
-If you find my stuff useful please consider supporting me as a [Sponsor](https://github.com/sponsors/robertsLando) 💓
+When I'm not writing code, you'll probably find me on a trail somewhere in the mountains.
+
+---
+
+### 🔧 What I Do
+
+I'm a core contributor and maintainer across several open-source projects:
+
+- **[Z-Wave JS UI](https://github.com/zwave-js/zwave-js-ui)** — Full-featured Z-Wave Control Panel & MQTT gateway
+- **[MQTT.js](https://github.com/mqttjs)** — The most popular MQTT client for Node.js
+- **[MoscaJS](https://github.com/moscajs)** — MQTT broker in Node.js
+
+...and [79 more repos](https://github.com/robertsLando?tab=repositories) that keep me out of trouble (mostly).
+
+---
+
+### 📊 Stats
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=robertsLando&show_icons=true&theme=tokyonight&count_private=true&hide=stars">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertsLando&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
-  </a>  
+  </a>
 </p>
+
+---
+
+### 💬 Get in Touch
+
+- 🐦 [@robertsLando](https://twitter.com/robertsLando)
+
+If you find my work useful, consider [sponsoring me](https://github.com/sponsors/robertsLando) 💓
